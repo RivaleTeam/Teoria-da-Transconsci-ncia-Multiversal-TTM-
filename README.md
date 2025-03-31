@@ -2,7 +2,8 @@
 
 Autor: Rivale
 Data: 21/03/2025 4:00
-Repositório:
+Repositório: https://github.com/RivaleTeam/Teoria-da-Transconsci-ncia-Multiversal-TTM
+Codepen: https://codepen.io/germano021/pen/azbQvWa
 
 Resumo
 Esta teoria propõe que a consciência humana não está restrita a um único universo, mas pode interagir com versões paralelas de si mesma em realidades alternativas. Fenômenos como déjà vu, sonhos vívidos, o Efeito Mandela e experiências de quase-morte seriam evidências dessa conexão entre multiversos. A hipótese sugere que, quando um indivíduo morre em uma realidade, sua consciência "salta" para a versão mais próxima de si mesmo em outro universo, muitas vezes sem perceber a transição.
